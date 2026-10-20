@@ -7,7 +7,7 @@
 //! waveform + spectrogram) preview, and emits the portable `.mid`. The
 //! `list-instruments` / `instrument-info` browse commands query the instrument bank
 //! and record nothing. See
-//! `apps/docs/src/content/docs/testing/asset-generation/audio-binaries.md`.
+//! <https://docs.testcabinet.ai/testing/asset-generation/audio-binaries/>.
 
 use std::path::PathBuf;
 use std::process::ExitCode;
