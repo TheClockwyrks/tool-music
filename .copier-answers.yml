@@ -2,7 +2,7 @@
 # kit was last rendered or updated from. Copier maintains it through the
 # superrepo's scripts/repos/render.py; a change made here is overwritten by
 # the next update.
-_commit: v0.6.3-5260-g6861a44ae
+_commit: v0.6.3-5579-g9ecc82fe9
 _src_path: ..
 description: 'The music tool: the music binary a run image carries to sequence notes
     on instrument tracks into a .wav and a portable .mid score.'
